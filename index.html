@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>ToDoList-I</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+<body>
+
+<div class="container">
+    <div class="col-xs-6 col-xs-offset-3">
+        <h1 class="text-center" id="titleToDOList">Список заданий</h1>
+        <div  class="input-group">
+            <input type="text" class="form-control" placeholder="Добавить новую задачу" id="addNewTaskTodoList">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="button" id="addBtnTodoList">Добавить</button>
+                </span>
+        </div>
+        <div class="btn-group btn-group-justified" role="group" id="btnGroupTodoList">
+            <div class="btn-group" role="group" id="active">
+                <a href="#active" type="button" class="btn btn-info">Active</a>
+            </div>
+            <div class="btn-group" role="group" id="done">
+                <a href="#done" type="button" class="btn btn-info">Done</a>
+            </div>
+            <div class="btn-group" role="group" id="remove">
+                <a href="#remove" type="button" class="btn btn-info">Remove</a>
+            </div>
+        </div>
+        <div id="fullDataTodoStorage">
+            <ul class="list-group" id="TaskList">
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script src="js/javascript.js"></script>
+</body>
+</html>
