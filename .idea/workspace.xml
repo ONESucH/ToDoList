@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef87a46c-2bad-4cf5-ba0a-bea321bb2851" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FreameForkBootstrap3/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FreameForkBootstrap3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameHSJ/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameHSJ/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../GameHSJ/js/java.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/.idea/A_New_Level_Of_Knowledge.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/A_New_Level_Of_Knowledge.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/bootstrap.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/neon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/debug.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/3D-Design-Alt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/3D-Design.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/ACDSee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/AIM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Adobe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Airplane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Applications.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Audition.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/AveDesk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Avira.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/BI.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/BitTorrent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Bluetooth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Bookmarks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Bridge-Alt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Bridge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/CCleaner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Calculator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Chrome.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Computer..png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Connectiions.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Contact.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Digsby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Disc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Documents.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Downloads.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Dreamweaver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/E-Mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Earth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Explorer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Favorites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Finder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Firefox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Fireworks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Flash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Foobar2000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/GOM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Games.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Gimp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Graphing-Spreadsheets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/HTC-Touch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Hard-Drive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Headset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/ICQ.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/IE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/IM.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Illustrator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/IllustratorCS2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/InDesign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/InDesignCS2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Lightning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Lightroom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Limewire.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/MSN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Media-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Memory.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Mouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Mute.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Network.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Networked-Drive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Nod32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Notepad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Oh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/OpenOffice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Opera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Paint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Photoshop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/PhotoshopCS2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Picasa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Pictures-Alt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Pictures.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Power.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Projector.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Quicktime.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/RSS.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Recycle-Empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Recycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/RemoteDesktop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Safari.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Scanner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Skype.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Slideshow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Songbird.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Sound.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Speaker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Steam.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Task-Manager.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Television-Alt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Television.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Thunderbird.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Trillian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/TuneUp-Utilities.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Update.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/VLC.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/VMWare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Video-Camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Videos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/VisualStudio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/VoIP-Alt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/VoIP.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/WinAmp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/WinRAR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Word-Processor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Wrench.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Writing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Xion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Zip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/Zune.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/blog-arrows.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/carousel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/iPhone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/iPod-Nano.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/iPod.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/iTunes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/pattern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/images/uTorrent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/jquery-1.5.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/jquery.jcarousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/jquery.sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/jquery.waterwheelCarousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/jquery.waterwheelCarousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/js/snow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/SIL Open Font License 1.1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_italic-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_italic-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_italic-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_italic-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/type/puritan/puritan_regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../A_New_Level_Of_Knowledge/waterwheelcarousel.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AngularProject/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AngularProject/.idea/AngularProject.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AngularProject/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AngularProject/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AngularProject/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AngularProject/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AngularProject/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Github/TestJavascript" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JsKnowleng/app/ToDoList-Js-" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JsKnowleng/app/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JsKnowleng/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JsKnowleng/app/js/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Работа с Git.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../bootstrap-master.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AngularProject/angular-phonecat" afterPath="$PROJECT_DIR$/../AngularProject/angular-phonecat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Github/MyfirstApplicationOnJs" afterPath="$PROJECT_DIR$/../Github/MyfirstApplicationOnJs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TESTaNewLevelOfKnowledge" afterPath="$PROJECT_DIR$/../TESTaNewLevelOfKnowledge" />
+    </list>
+    <ignored path="ToDolist-I.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ToDolist-I" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascript.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="739">
+              <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todoListInit.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="926">
+              <caret line="82" column="50" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="58" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/../ToDoList-Js-/index.html" />
+        <option value="$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/javascript.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ToDolist-I" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ToDolist-I" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ToDolist-I" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Programm\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ToDolist-I/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef87a46c-2bad-4cf5-ba0a-bea321bb2851" name="Default" comment="" />
+      <created>1460645696439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1460645696439</updated>
+      <workItem from="1460645698322" duration="2965000" />
+      <workItem from="1460650023939" duration="1666000" />
+      <workItem from="1460696680350" duration="9847000" />
+      <workItem from="1460711163476" duration="229000" />
+      <workItem from="1460715794999" duration="2654000" />
+      <workItem from="1460728018257" duration="1203000" />
+      <workItem from="1460729499481" duration="759000" />
+      <workItem from="1460793941150" duration="14331000" />
+      <workItem from="1460884702264" duration="7623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41277000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2605178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5032467" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.49675325" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23847926" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2540453" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="110" selection-start-line="14" selection-start-column="92" selection-end-line="14" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="71" selection-start-line="45" selection-start-column="71" selection-end-line="45" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ToDoList-Js-/js/todoListInit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="926">
+          <caret line="82" column="50" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
