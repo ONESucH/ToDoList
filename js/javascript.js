@@ -1,5 +1,5 @@
-var taskMass = [];
-var currentData = '';
+var newMass = [];
+var current = '';
 
 var dataStorage = function (title, status) {
     this.title = title;
@@ -18,59 +18,60 @@ var AllTask = {
     TaskList: document.getElementById('TaskList')
 };
 
-AllTask.addBtnTodoList.addEventListener('click', InputTextActive);
+AllTask.addBtnTodoList.addEventListener('click', EventHandler);
 
 window.addEventListener('hashchange', function (e) {
-    currentData = e.newURL.split('#')[1];
-    tasksHandlers(currentData)
+    current = e.newURL.split('#')[1];
+    StatusHandler(current)
 });
 
-function InputTextActive() {
-    var addNewTaskTodoList = AllTask.addNewTaskTodoList.value;
-    var ActiveClick = addNewTaskTodoList.length;
-    if(ActiveClick === 0) {
+function EventHandler(){
+    var EventHandler = AllTask.addNewTaskTodoList.value;
+    var EventHandlerActive = EventHandler.length;
+    if(EventHandlerActive === 0){
         return false;
     }
-    var dataForStorage = new dataStorage(addNewTaskTodoList, 'active');
+    var dataStorageIt = new dataStorage(EventHandler, 'active');
     AllTask.addNewTaskTodoList.value = '';
-    taskMass.push(dataForStorage);
-    newLabelList();
-    console.log("dataMass:", taskMass);
+    newMass.push(dataStorageIt);
+    AddNewList();
+    console.log('data Storage: ', newMass);
 }
 
-function tasksHandlers(status) {
-    addNewList(status);
+function StatusHandler(status) {
+    StatusHandlerButt(status);
 }
 
-function addNewList(status) {
-    AllTask.active.firstElementChild.className= 'btn btn-success';
-    AllTask.done.firstElementChild.className= 'btn btn-success';
-    AllTask.remove.firstElementChild.className= 'btn btn-success';
-    AllTask[status].firstElementChild.className= 'btn btn-success active';
+function StatusHandlerButt(status) {
+    AllTask.active.firstElementChild.className = 'btn btn-success';
+    AllTask.done.firstElementChild.className = 'btn btn-success';
+    AllTask.remove.firstElementChild.className = 'btn btn-success';
+    AllTask[status].firstElementChild.className = 'btn btn-success active';
 }
 
-function newLabelList() {
+function AddNewList() {
     AllTask.TaskList.remove();
     AllTask.TaskList = document.createElement('ul');
-    AllTask.TaskList.className = 'list-group';
+    AllTask.TaskList.classList = 'list-group';
     AllTask.TaskList.setAttribute("id", "TaskList");
     AllTask.fullDataTodoStorage.appendChild(AllTask.TaskList);
-    console.log(AllTask.TaskList);
+    console.log(AddNewList);
 
-    taskMass.forEach(function (item) {
-        var listItem = document.createElement('li');
-        listItem.className = 'list-group-item list-group-item-success';
-        listItem.appendChild(document.createElement(item.titleToDOList));
-        AllTask.TaskList.appendChild(listItem);
-        console.log('item:',item);
-})
+    newMass.forEach( function (item) {
+        var newUlList = document.createElement('li');
+        newUlList.className = 'list-group-item list-group-item-success';
+        newUlList.appendChild(document.createTextNode(item.title));
+        console.log('Item: ', item);
+        AllTask.TaskList.appendChild(newUlList);
+    })
 }
-function removeLabelList() {
-    taskMass.forEach(function (item) {
-        var listItem = document.createElement('li');
-        listItem.className = 'list-group-item list-group-item-success';
-        listItem.appendChild(document.createElement(item.titleToDOList));
-        AllTask.TaskList.appendChild(listItem);
-        console.log('item:',item);
-        })
+
+function removeNewList() {
+    newMass.forEach( function (item) {
+        var newUlList = document.createElement('li');
+        newUlList.className = 'list-group-item list-group-item-success';
+        newUlList.appendChild(document.createTextNode(item.title));
+        console.log('Item: ', item);
+        AllTask.TaskList.appendChild(newUlList);
+    })
 }
