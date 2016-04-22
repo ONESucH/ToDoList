@@ -1,3 +1,6 @@
 #btnGroupTodoList {
     padding: 15px 0;
 }
+#TaskList img{
+    float: right;
+}

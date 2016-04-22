@@ -15,7 +15,8 @@ var AllTask = {
     done: document.getElementById('done'),
     remove: document.getElementById('remove'),
     fullDataTodoStorage: document.getElementById('fullDataTodoStorage'),
-    TaskList: document.getElementById('TaskList')
+    TaskList: document.getElementById('TaskList'),
+    img: document.getElementById('TaskList')
 };
 
 AllTask.addBtnTodoList.addEventListener('click', EventHandler);
@@ -53,25 +54,33 @@ function AddNewList() {
     AllTask.TaskList.remove();
     AllTask.TaskList = document.createElement('ul');
     AllTask.TaskList.classList = 'list-group';
-    AllTask.TaskList.setAttribute("id", "TaskList");
+    AllTask.TaskList.setAttribute('id', 'TaskList');
     AllTask.fullDataTodoStorage.appendChild(AllTask.TaskList);
-    console.log(AddNewList);
+    console.log( AllTask.TaskList);
 
     newMass.forEach( function (item) {
         var newUlList = document.createElement('li');
+        var images = document.createElement('img');
+        images.setAttribute('src', 'img/ico_mus.png');
+        images.className = 'img-rounded';
         newUlList.className = 'list-group-item list-group-item-success';
         newUlList.appendChild(document.createTextNode(item.title));
-        console.log('Item: ', item);
+        newUlList.appendChild(images);
         AllTask.TaskList.appendChild(newUlList);
+        console.log('Item', item);
     })
 }
 
 function removeNewList() {
     newMass.forEach( function (item) {
         var newUlList = document.createElement('li');
+        var images = document.createElement('img');
+        images.setAttribute('src', 'img/ico_mus.png');
+        images.className = 'img-rounded';
         newUlList.className = 'list-group-item list-group-item-success';
         newUlList.appendChild(document.createTextNode(item.title));
-        console.log('Item: ', item);
+        newUlList.appendChild(images);
         AllTask.TaskList.appendChild(newUlList);
+        console.log('Item', item);
     })
 }
