@@ -4,3 +4,6 @@
 #TaskList img{
     float: right;
 }
+#checkbox {
+    position: relative;
+}
