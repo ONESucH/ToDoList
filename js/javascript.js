@@ -1,5 +1,6 @@
 var newMass = [];
 var current = '';
+var toDoStorage = [];
 
 var dataStorage = function (title, status) {
     this.title = title;
@@ -32,9 +33,9 @@ function EventHandler(){
     if(EventHandlerActive === 0){
         return false;
     }
-    else if(EventHandlerActive >= 46 || EventHandlerActive === false) {
+    if(EventHandlerActive >= 46){
         alert('Вы использовали больше 45 символов');
-        EventHandlerActive();
+        return false;
     }
     var dataStorageIt = new dataStorage(EventHandler, 'active');
     AllTask.addNewTaskTodoList.value = '';
@@ -52,30 +53,11 @@ function StatusHandlerButtActive(status){
     AllTask.done.firstElementChild.className = 'btn btn-success';
     AllTask.remove.firstElementChild.className = 'btn btn-success';
     AllTask[status].firstElementChild.className = 'btn btn-success active';
-}
 
-function StatusHandlerButtDone(status){
-    AllTask.active.firstElementChild.className = 'btn btn-primary';
-    AllTask.done.firstElementChild.className = 'btn btn-primary';
-    AllTask.remove.firstElementChild.className = 'btn btn-primary';
-    AllTask[status].firstElementChild.className = 'btn btn-primary done';
-}
-
-function StatusHandlerButtRemove(status){
-    AllTask.active.firstElementChild.className = 'btn btn-danger';
-    AllTask.done.firstElementChild.className = 'btn btn-danger';
-    AllTask.remove.firstElementChild.className = 'btn btn-danger';
-    AllTask[status].firstElementChild.className = 'btn btn-danger remove';
-}
-
-AddNewList['newUlList'].addEventListener('click', SwitchToTab);
-
-function SwitchToTab() {
-    var SwitchToTab = AddNewList.value;
-    if(SwitchToTab === 0){
-        console.log('SwitchToTab-Работает', SwitchToTab);
-    }
-}
+    AllTask.active = toDoStorage.filter(function(number) {
+        return number > 0;
+    });
+    console.log('Функия сработала');
 
 function AddNewList() {
     AllTask.TaskList.remove();

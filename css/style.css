@@ -1,9 +1,11 @@
 #btnGroupTodoList {
-    padding: 15px 0;
+    padding: 10px 0;
 }
 #TaskList img{
     float: right;
+    cursor: pointer;
 }
-#checkbox {
-    position: relative;
+#TaskList {
+    font-size: large;
+    cursor: pointer;
 }
