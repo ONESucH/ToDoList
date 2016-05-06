@@ -1,11 +1,15 @@
 #btnGroupTodoList {
     padding: 10px 0;
 }
-#TaskList img{
+#TaskList img {
     float: right;
     cursor: pointer;
 }
 #TaskList {
     font-size: large;
+    cursor: pointer;
+}
+#TaskList  span{
+    float: right;
     cursor: pointer;
 }
